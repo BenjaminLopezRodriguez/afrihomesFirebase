@@ -12,6 +12,7 @@ export default function Index() {
     <div className="font-sans p-4">
       <button>Search for next home</button>
       <div></div>
+      <input/>
     </div>
   );
 }
